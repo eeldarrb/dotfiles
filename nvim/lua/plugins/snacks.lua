@@ -5,9 +5,11 @@ return {
       sources = {
         files = {
           ignored = true,
+          hidden = true,
         },
         explorer = {
           ignored = true,
+          hidden = true,
           layout = {
             layout = {
               width = 25,
