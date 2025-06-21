@@ -22,6 +22,7 @@ return {
         ".git",
         "node_modules",
         "venv",
+        "__pycache__",
       },
     },
   },
